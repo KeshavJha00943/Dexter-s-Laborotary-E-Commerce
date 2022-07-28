@@ -1,0 +1,79 @@
+body{
+    background-color: black;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.DexoTransformer{
+    display: flex;
+    justify-content: center;
+    margin: 5vh 0;
+    width: 80%;
+    margin: 0 auto; 
+    padding-top: 70px;
+}
+.DexoTransformerImage img{
+    width: 25vw;
+    height: 60vh;
+    margin-top: 7vh;
+    outline: inset white;
+    border-radius: 25px;
+}
+.DexoTransformerText{
+    padding-left: 5vh;
+    background-color: rgb(6, 6, 6);
+    margin-left: 50vh;
+}
+.DexoTransformerText h4{
+    font-size: 35px;
+}
+.DexoTransformerText h5{
+    font-size: 32px;
+    margin-top: -35px;
+}
+.DexoTransformerText h6{
+    text-align: center;
+    font-size: 18px;
+    font-weight: lighter;
+    opacity: 0.8;
+    margin-left: -6vw;
+    margin-top: -7.5vh;
+}
+.DexoTransformerText p{
+    margin-top: -33vh;
+    font-size: 20px;
+}
+.Button{
+    background-color:  #ceff2f;
+    width: 35vh;
+    border-radius: 7px;
+    margin-top: 25vh;
+    transition: 0.5s;
+}
+.Button:hover{
+    border-radius: 15px;
+    transition: 0.5s;
+}
+.DexoTransformerText a h3{
+    text-align: center;
+    font-size: 30px;
+}
+body a{
+    text-decoration: none;
+    color: black;
+}
+.Quantity{
+    width: 34.5vh;
+    outline: white;
+    outline-style: solid;
+    margin-top: 15vh;
+}
+.Quantity h4{
+    color: white;
+    text-align: center;
+    margin-left: 10px;
+    font-size: 30px;
+}
+.BackToHomePage a{
+    color: white;
+    text-decoration: none;
+}

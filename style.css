@@ -1,0 +1,162 @@
+
+.BigImage img {
+    position: relative;
+    height: 100vh;
+    margin-top: 10px;
+    margin-left: 150px;
+    width: 75vw;
+}
+
+nav {
+    background-color: #000;
+    font-family: "Poppins";
+}
+
+nav img {
+    height: 10vh;
+    position:absolute;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    padding-bottom: 30px;
+}
+
+nav li {
+    display: inline-block;
+    margin-left: 700px;  
+    margin-right: -600px;
+    padding-top: 35px;
+    position: relative  ;
+}
+
+nav a{
+    color: #fff;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: 450;
+    text-align: center;
+}
+
+nav a:hover {
+    color: #ceff2f;
+    font-weight: 550;
+}
+
+
+body {
+    overflow-x: hidden;
+    background-color: #000;
+    font-family: "Poppins";
+    color: #fff;
+}
+
+.Aboutus{
+    display: flex;
+    justify-content: center;
+    margin: 5vh 0;
+    width: 80%;
+    margin: 0 auto; 
+    padding-top: 70px;
+}
+.Aboutusimage img{
+    width: 22.5vw;
+    height: 62.5vh;
+    margin-left: 70px;
+    opacity: 0.9;
+}
+.Aboutustext{
+    margin-left: 15vw;
+    margin-top: 10vh;
+}
+.Aboutustext a{
+    color: #fff;
+    text-decoration: none;
+}
+.Aboutustext a:hover{
+    color: #ceff2f;
+    font-weight: 650;
+}
+
+.Admin{
+    /* display: flex; */
+    justify-content: center;
+    margin: 5vh 0;
+    width: 80%;
+    margin: 0 auto; 
+    padding-top: 70px;
+}
+.Adminimage img{
+    width: 30vw;
+    height: 95vh;
+    margin-top: -45vw;
+    margin-left: 60vw;
+}
+.Admintext{ 
+    margin-top: -5vw;
+    margin-right: 40vw;
+}
+.Admintext a{
+    color: #fff;
+    text-decoration: none;
+}
+.Admintext a:hover{
+    color: #ceff2f;
+    font-weight: 650;
+}
+
+.Shopwithus{
+    display: flex;
+    justify-content: center;
+    margin: 5vh 0;
+    width: 80%;
+    margin: 0 auto; 
+    padding-top: 70px;
+}
+.Shopwithusimage img{
+    width: 25vw;
+    margin-left: 1vw;
+}
+.Shopwithustext{
+    margin-top: 5vh;
+    margin-left: 12vw;
+}
+.Shopwithustext a{
+    color: #fff;
+    text-decoration: none;
+}
+.Shopwithustext a:hover{
+    color: #ceff2f;
+    font-weight: 650;
+}
+footer{
+    margin-top: 10vh;
+    margin-bottom: -30vw;
+    height: 25vh;
+    margin-left: -10vw;
+    margin-right: -10vw;
+    background-color: rgb(31, 30, 30);
+    display: flex;
+}
+.Footerimage img{
+    margin-left: 10vw;
+    margin-bottom: -19.5vh;
+}
+.useful{
+    margin-left: 10vw;
+    font-weight: 500;
+}
+.useful h2{
+    font-weight: 500;
+}
+.products{
+    margin-left: 10vw;
+}
+.products h2{
+    font-weight: 500;
+}

@@ -1,0 +1,54 @@
+body{
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+.InformationBox{
+    background-color: rgb(15, 15, 15);
+    width: 100vh;
+    height: 75vh;
+    border-radius: 15px;
+    margin-top: 15vh;
+    margin-left: 20vh;
+}
+.InformationBox .toppart .paypal img{
+    width: 160px;
+}
+.InformationBox h2{
+    margin-top: -20px;
+}
+.toppart input{
+    height: 100px;
+    width: 20px;
+    margin-left: 20px;
+}
+.AccountNumber input{
+    height: 20px;
+    width: 400px;
+    border-radius: 5px;
+}
+.CardNumber h2{
+    margin-top: 10px;
+}
+.CardNumber input{
+    height: 20px;
+    width: 400px;
+}
+.CVC h2{
+    margin-top: 10px;
+}
+.CVC input{
+    width: 400px;
+    height: 20px;
+}
+button{
+    width: 150px;
+    height: 30px;
+    background-color: #ceff2f;
+    transition: 0.5s;
+}  
+button:hover{
+    border-radius: 7px;
+    transition: 0.5s;
+}

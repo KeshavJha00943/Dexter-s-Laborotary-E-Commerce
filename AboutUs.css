@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+    overflow: hidden;
+    font-family: 'Poppins', sans-serif;
+}
+.TextBox{
+    background-color: #ceff2f;
+    width: 109vh;
+    height: 103vh;
+    margin-left: 107vh;
+    margin-top: -8px;
+}
+.TextBox img{
+    height: 60vh;
+    width: 50vh;
+    margin-left: -80vh;
+    margin-top: 19vh;
+}
+.TextBox h2{
+    color: white;
+    font-size: 30px;
+    font-weight: 200;
+    margin-left: -78vh;
+    margin-top: -10vh;
+}
+.TextBox h3{
+    color: black;
+    font-weight: 500;
+    margin-left: 10vh;
+    margin-top: -60vh;
+}
+.TextBox p{
+    font-size: 20px;
+    color: black;
+    margin-top: 5vh;
+    margin-left: 20vh;
+    margin-right: 10vh;
+}
+.Facebook img{
+    margin-left: 35vh;
+    margin-top: -1vh;
+    width: 7vh;
+    height: 7vh;
+}
+.Instagram img{
+    margin-left: 45vh;
+    margin-top: -12vh;
+    width: 15vh;
+    height: 15vh;
+}
+.BackToHomePage a{
+    margin-top: -30vh;
+}

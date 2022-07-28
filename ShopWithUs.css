@@ -1,0 +1,288 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    color: white;
+}
+
+.BigText h2 {
+    color: #ceff2f;
+    font-size: 50px;
+    text-align: center;
+}
+
+.BoxContainer1 {
+    width: 250px;
+    height: 250px;
+    margin: 20vh 20vh 20vh 20vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box1 img {
+    height: 250px;
+    margin-top: 3vh;
+}
+
+.Box1 h3 {
+    margin-top: -9vh;
+    margin-left: 7vh;
+}
+
+.BoxContainer1 a{
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer1:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer2 {
+    width: 250px;
+    height: 250px;
+    margin-top: -58vh;
+    margin-left: 80vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box2 img {
+    height: 225px;
+    margin-left: -1vw;
+    margin-top: 2vh;
+}
+
+.Box2 h3 {
+    margin-top: -4vh;
+    margin-left: 7vh;
+}
+
+.BoxContainer2 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer2:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer3 {
+    width: 250px;
+    height: 250px;
+    margin-top: -38vh;
+    margin-left: 140vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box3 img {
+    height: 215px;
+    margin-left: -3vw;
+    margin-top: 1vh;
+}
+
+.Box3 h3 {
+    margin-top: -1vh;
+    margin-left: 8vh;
+}
+
+.BoxContainer3 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer3:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer4 {
+    width: 250px;
+    height: 250px;
+    margin-top: 5vh;
+    margin-left: 20vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box4 img {
+    height: 215px;
+    margin-top: 1vh;
+}
+
+.Box4 h3 {
+    margin-top: -1vh;
+    margin-left: 6vh;
+}
+
+.BoxContainer4 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer4:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer5 {
+    width: 250px;
+    height: 250px;
+    margin-top: -38vh;
+    margin-left: 80vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box5 img {
+    height: 215px;
+    margin-left: -4.5vh;
+    margin-top: 1vh;
+}
+
+.Box5 h3 {
+    margin-top: -1vh;
+    margin-left: 6vh;
+}
+
+.BoxContainer5 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer5:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer6 {
+    width: 250px;
+    height: 250px;
+    margin-top: -38vh;
+    margin-left: 140vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box6 img {
+    height: 215px;
+    margin-left: -2.5vh;
+    margin-top: 1vh;
+}
+
+.Box6 h4 {
+    font-size: 18px;
+    margin-top: -1vh;
+    margin-left: 4vh;
+}
+
+.BoxContainer6 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer6:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer7 {
+    width: 250px;
+    height: 250px;
+    margin-top: 5vh;
+    margin-left: 20vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box7 img {
+    height: 215px;
+    margin-top: 1vh;
+}
+
+.Box7 h3 {
+    margin-top: -1vh;
+    margin-left: 6vh;
+}
+
+.BoxContainer7 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer7:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer8 {
+    width: 250px;
+    height: 250px;
+    margin-top: -38vh;
+    margin-left: 80vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box8 img {
+    height: 215px;
+    margin-left: -4vh;
+    margin-top: 1vh;
+}
+
+.Box8 h3 {
+    margin-top: -1vh;
+    margin-left: 10vh;
+}
+
+.BoxContainer8 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer8:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
+
+.BoxContainer9 {
+    width: 250px;
+    height: 250px;
+    margin-top: -38vh;
+    margin-left: 140vh;
+    outline: inset white;
+    border-radius: 25px;
+    transition: 0.5s;
+}
+
+.Box9 img {
+    height: 195px;
+    margin-left: -2.5vh;
+    margin-top: 1vh;
+}
+
+.Box9 h3 {
+    font-size: 18px;
+    margin-top: 1vh;
+    margin-left: 7vh;
+}
+
+.BoxContainer9 a {
+    text-decoration: none;
+    color: white;
+}
+
+.BoxContainer9:hover{
+    outline: inset greenyellow;
+    transition: 0.5s;
+}
